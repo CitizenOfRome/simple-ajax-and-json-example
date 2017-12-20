@@ -1,0 +1,24 @@
+{
+    "students": [
+        {
+            "name": "Student 1",
+            "specialization": "JSON",
+            "age": 39
+        },
+        {
+            "name": "Student 2",
+            "specialization": "VueJS",
+            "age": 20
+        },
+        {
+            "name": "Student 3",
+            "specialization": "CSS",
+            "age": 50
+        },
+        {
+            "name": "Student 4",
+            "specialization": "HTML5",
+            "age": 9
+        }
+    ]
+}
